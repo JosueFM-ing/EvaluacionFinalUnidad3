@@ -99,11 +99,7 @@ En este apartado se documentarán las pruebas realizadas en la aplicación.
 [Creacion de SDK] (![image](https://github.com/user-attachments/assets/93953964-1a5b-4d30-aae6-f73a18e77760)
 [Creacion de DataBase] (![image](https://github.com/user-attachments/assets/ace6b04d-d8e5-45ef-98da-95ed46f0af22)
 [Reglas] (![image](https://github.com/user-attachments/assets/aa93d48f-0d55-4e97-a514-31ecfaeb7bca)
-)
-)
-)
-)
-)        |
+|
 
 ---
 
