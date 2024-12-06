@@ -97,8 +97,6 @@ En este apartado se documentarán las pruebas realizadas en la aplicación.
 | Integración Firebase    | Almacenamiento y visualización de datos, como se dijo anteriormente, en esta parte de la conexion tuve bastantes errores, los cuakles no me permitieron continuae, por ende como solucion,simule los datos de forma local, haciendo su xml y s logica.         | ![Firebase](![image](https://github.com/user-attachments/assets/3e64ce38-a6a4-4401-9862-3d1aa0330d6f)
 )        |
 
-**Nota:** Reemplace `ruta/a/la/imagen.png` con la ruta o URL correspondiente a cada captura de pantalla.
-
 ---
 
 ## Mejoras Futuras
