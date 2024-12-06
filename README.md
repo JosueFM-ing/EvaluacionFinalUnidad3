@@ -86,11 +86,16 @@ En este apartado se documentarán las pruebas realizadas en la aplicación.
 )  |
 | Login                   | Manejo de credenciales incorrectas.              | ![Login Incorrecto] (![image](https://github.com/user-attachments/assets/a96a414d-8846-4b86-b0f5-9927021c5cc6)
 )|
-| Navegación              | Transición entre pantallas.                      | ![Navegación] (![image](https://github.com/user-attachments/assets/c25d0c52-b759-4f97-9971-84db12d746ed)
+| Navegación              | Transición entre pantallas, la cual nos permitira el poder elegir si utilizar el MQTT para enviar datos o el Firebase.                      | ![Navegación] (![image](https://github.com/user-attachments/assets/c25d0c52-b759-4f97-9971-84db12d746ed)
 )      |
-| Conexión MQTT           | Publicación y recepción de mensajes.             | ![Ingresamos datos desde la app para enviar al MQTT] (![image](https://github.com/user-attachments/assets/4120b5e6-6777-4ace-bae6-2ad10e3d6bcf)
+| Conexión MQTT           | Publicación y recepción de mensajes, en este apartado se realizaron diferentes pruebas, enviando datos desde la app hacia el MQTT y del MQTT para que la app la reciba.             | ![MQTT] (![image](https://github.com/user-attachments/assets/4120b5e6-6777-4ace-bae6-2ad10e3d6bcf) 
+[Datos de app a MQTT] (![image](https://github.com/user-attachments/assets/3ba0a958-43ca-4af7-ab1d-ce4f030b8ded)
+[Datos de MQTT a app] (![image](https://github.com/user-attachments/assets/07951e44-a087-4bb8-880f-e153736bb632)
+)
+)
 )            |
-| Integración Firebase    | Almacenamiento y visualización de datos.         | ![Firebase](ruta/a/la/imagen.png)        |
+| Integración Firebase    | Almacenamiento y visualización de datos, como se dijo anteriormente, en esta parte de la conexion tuve bastantes errores, los cuakles no me permitieron continuae, por ende como solucion,simule los datos de forma local, haciendo su xml y s logica.         | ![Firebase](![image](https://github.com/user-attachments/assets/3e64ce38-a6a4-4401-9862-3d1aa0330d6f)
+)        |
 
 **Nota:** Reemplace `ruta/a/la/imagen.png` con la ruta o URL correspondiente a cada captura de pantalla.
 
