@@ -94,7 +94,15 @@ En este apartado se documentarán las pruebas realizadas en la aplicación.
 )
 )
 )            |
-| Integración Firebase    | Almacenamiento y visualización de datos, como se dijo anteriormente, en esta parte de la conexion tuve bastantes errores, los cuakles no me permitieron continuae, por ende como solucion,simule los datos de forma local, haciendo su xml y s logica.         | ![Firebase](![image](https://github.com/user-attachments/assets/3e64ce38-a6a4-4401-9862-3d1aa0330d6f)
+| Integración Firebase    | Almacenamiento y visualización de datos, como se dijo anteriormente, en esta parte de la conexion tuve bastantes errores, los cuales no me permitieron continuar, hice todos los pasos apra la conexion del firebase, cree el proyecto, su database, agregue sus dependencias pero no me dejo por ende como solucion, simule los datos de forma local, haciendo su xml y s logica, adjunte de igual manera la evidencia de el intento xD.         | ![Firebase](![image](https://github.com/user-attachments/assets/3e64ce38-a6a4-4401-9862-3d1aa0330d6f)
+[Creacion de proyecto] (![image](https://github.com/user-attachments/assets/543e3c09-51cd-4df9-8122-fe2c1d6a7b6e)
+[Creacion de SDK] (![image](https://github.com/user-attachments/assets/93953964-1a5b-4d30-aae6-f73a18e77760)
+[Creacion de DataBase] (![image](https://github.com/user-attachments/assets/ace6b04d-d8e5-45ef-98da-95ed46f0af22)
+[Reglas] (![image](https://github.com/user-attachments/assets/aa93d48f-0d55-4e97-a514-31ecfaeb7bca)
+)
+)
+)
+)
 )        |
 
 ---
