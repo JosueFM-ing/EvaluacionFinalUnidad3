@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440926748614",
+    "project_id": "proyectofirebase2-ee43c",
+    "storage_bucket": "proyectofirebase2-ee43c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440926748614:android:764e242282409580043cc7",
+        "android_client_info": {
+          "package_name": "com.twindev.mqtt_semana15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvsfCVW5PHk2vyzhX_saCYbKT0z23chVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

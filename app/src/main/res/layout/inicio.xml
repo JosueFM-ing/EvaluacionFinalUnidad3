@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="#F5F5F5">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bienvenido"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="16dp" />
+
+    <Button
+        android:id="@+id/buttonMQTTT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ir a MQTT"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#FF9800"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/buttonFirebase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ir a Firebase"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#3F51B5"
+        android:textColor="#FFFFFF" />
+</LinearLayout>
